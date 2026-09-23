@@ -4,14 +4,11 @@ A responsive, static conference-deadline tracker for GitHub Pages. No installati
 
 ## Host on GitHub
 
-This checkout is configured for `LeakDetectAI/MLPrivacyTracker`.
+This tracker is part of the GuptaSec4AI · AI4Sec website. The intended organization repository is `gupta-sec4ai-ai4sec/gupta-sec4ai-ai4sec.github.io`; migration is pending GitHub organization setup and publication.
 
-1. Commit and push these files to the repository's `main` branch.
-2. In the repository, open **Settings → Pages → Build and deployment → Source** and select **GitHub Actions**.
-3. Open **Actions → Deploy GitHub Pages → Run workflow** if the first push happened before Pages was enabled.
-4. After the deployment succeeds, visit **https://leakdetectai.github.io/MLPrivacyTracker/**.
+Follow [the migration instructions](../MIGRATION.md). Publish the repository root from `main` using GitHub Pages. The tracker will be at `https://gupta-sec4ai-ai4sec.github.io/research-deadlines.html` once deployed.
 
-The workflow regenerates the portable bundle, validates the catalogue and deadline logic, then publishes only the website's public assets. Relative asset URLs support repository subpaths and custom domains. GitHub documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+Regenerate `tracker.js` with `node scripts/build.mjs` before committing catalogue changes. Relative asset URLs work on the old and new hosts.
 
 ## Run locally
 
@@ -30,6 +27,8 @@ Use SecDeadlines, AI Deadlines and WikiCFP for discovery. For verification, chec
 Use `data/source-links.json` as the regex-friendly source registry. It stores the best discovery feeds, ranking sources, official URL templates, and primary official websites for conferences, workshops, and journals. Prefer its official URL templates first, then fall back to discovery feeds when a new year's official page has not been found yet.
 
 Each observation records `name`, `url`, `authority` (`official` or `discovery`), `checked` (YYYY-MM-DD), and `paper`. The six milestone fields are `abstract`, `paper`, `earlyReject`, `reviewsReleased`, `decision` (acceptance notification), and `cameraReady`. Use null for unrecorded dates. Every venue card shows all six fields, including when dates are missing. Set `type` to `conference`, `workshop`, or `journal`; all use the same milestone display. Official observations win over discovery observations; the most recently checked observation wins within the same authority. Conflicting paper dates are flagged. Observations with no paper date do not override a dated observation. Fields are not silently combined between sources. ARR venue-route records can also store `arrReviewingSchedule` for reviewer registration, reviews due, author response, meta-review release, and cycle end.
+
+Each venue can also store a `cfp` object for richer call-for-papers and proceedings tracking. Current fields are `topics`, `submissionFormat`, `pageLimit`, `location`, `proceedingsUrl`, `proceedingsSource`, `acceptanceRate`, `submissions`, `acceptedPapers`, and `statsSource`. Use null when a statistic is not verified. Prefer proceedings from the official venue page first, then publisher indexes such as IEEE Xplore, ACM Digital Library, USENIX proceedings, ACL Anthology, OpenReview, PMLR/JMLR, SciTePress, Springer, or DBLP as applicable.
 
 Use explicit ISO offsets for submission timestamps: `2026-11-17T23:59:59-12:00` for 11:59 PM AoE. Unless an official source explicitly gives a different submission time zone, store submission deadlines as 11:59 PM AoE (Anywhere on Earth), corresponding to UTC-12. Use `YYYY-MM-DD` only for non-countdown milestones when the time or zone has not been verified. The printed date preserves the source calendar date. Countdown values show full remaining days; closed entries remain visible below upcoming dates. A stale-check message appears after 30 days.
 

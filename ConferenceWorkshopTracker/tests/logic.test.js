@@ -36,3 +36,16 @@ test('workshop programs and ambiguous cutoffs are not verified submission deadli
   if(v.workshopKind==='program' || v.dateStatus==='time-unclear') assert.equal(resolve(v).verified,false);
  }
 });
+test('catalogue records expose CFP and statistics fields',()=>{
+ const data=JSON.parse(readFileSync(new URL('../data/venues.json',import.meta.url)));
+ for(const v of data){
+  assert.ok(v.cfp);
+  assert.ok(Array.isArray(v.cfp.topics));
+  assert.ok(typeof v.cfp.submissionFormat==='string');
+  for(const field of ['pageLimit','location','proceedingsUrl','acceptanceRate','submissions','acceptedPapers','statsSource','cfpSource']){
+   assert.ok(Object.hasOwn(v.cfp, field));
+  }
+  assert.ok(v.cfp.proceedingsSource?.label);
+  assert.ok(new URL(v.cfp.proceedingsSource.url));
+ }
+});

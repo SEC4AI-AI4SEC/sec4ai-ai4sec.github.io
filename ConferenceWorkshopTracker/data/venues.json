@@ -42,6 +42,33 @@
       "url": "https://portal.core.edu.au/conf-ranks/750/",
       "checked": "2026-09-14",
       "matchedTitle": "IEEE Symposium on Security and Privacy"
+    },
+    "cfp": {
+      "topics": [
+        "computer security",
+        "privacy",
+        "systems security",
+        "security foundations"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "13 pages of text plus up to 5 pages for references/appendices; 18 pages total",
+      "location": "Montreal, Canada",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": "12.7% (2026)",
+      "submissions": "1,994 (2026)",
+      "acceptedPapers": "253 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · IEEE S&P",
+        "url": "https://csconfstats.xoveexu.com/conferences/ieee-s-p/"
+      },
+      "cfpSource": {
+        "label": "IEEE S&P 2027 CFP",
+        "url": "https://sp2027.ieee-security.org/cfpapers.html"
+      }
     }
   },
   {
@@ -76,7 +103,34 @@
       "checked": "2026-09-14",
       "matchedTitle": "Usenix Security Symposium"
     },
-    "note": "Official USENIX Security '27 CFP lists two review cycles. This record tracks Cycle 1. Submission artifacts are due August 28, 2026. Symposium dates: August 11-13, 2027 in Denver, CO, USA."
+    "note": "Official USENIX Security '27 CFP lists two review cycles. This record tracks Cycle 1. Submission artifacts are due August 28, 2026. Symposium dates: August 11-13, 2027 in Denver, CO, USA.",
+    "cfp": {
+      "topics": [
+        "computer security",
+        "privacy",
+        "systems security",
+        "usable security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "13-page main body; references and optional appendices excluded at submission; final camera-ready up to 20 pages",
+      "location": "Denver, CO, USA",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "USENIX proceedings",
+        "url": "https://www.usenix.org/publications/proceedings"
+      },
+      "acceptanceRate": "13.2% (2026)",
+      "submissions": "2,750 (2026)",
+      "acceptedPapers": "362 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · USENIX Security",
+        "url": "https://csconfstats.xoveexu.com/conferences/usenix-security/"
+      },
+      "cfpSource": {
+        "label": "USENIX Security '27 CFP",
+        "url": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers"
+      }
+    }
   },
   {
     "id": "2",
@@ -110,7 +164,34 @@
       "checked": "2026-09-14",
       "matchedTitle": "Usenix Security Symposium"
     },
-    "note": "Official USENIX Security '27 CFP lists two review cycles. This record tracks Cycle 2. Symposium dates: August 11-13, 2027 in Denver, CO, USA."
+    "note": "Official USENIX Security '27 CFP lists two review cycles. This record tracks Cycle 2. Symposium dates: August 11-13, 2027 in Denver, CO, USA.",
+    "cfp": {
+      "topics": [
+        "computer security",
+        "privacy",
+        "systems security",
+        "usable security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "13-page main body; references and optional appendices excluded at submission; final camera-ready up to 20 pages",
+      "location": "Denver, CO, USA",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "USENIX proceedings",
+        "url": "https://www.usenix.org/publications/proceedings"
+      },
+      "acceptanceRate": "13.2% (2026)",
+      "submissions": "2,750 (2026)",
+      "acceptedPapers": "362 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · USENIX Security",
+        "url": "https://csconfstats.xoveexu.com/conferences/usenix-security/"
+      },
+      "cfpSource": {
+        "label": "USENIX Security '27 CFP",
+        "url": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers"
+      }
+    }
   },
   {
     "id": "3",
@@ -144,7 +225,34 @@
     "year": 2026,
     "timezone": "AoE (UTC−12)",
     "cycle": "Cycle A",
-    "note": "Official CCS 2026 CFP lists two review cycles. This record tracks Cycle A."
+    "note": "Official CCS 2026 CFP lists two review cycles. This record tracks Cycle A.",
+    "cfp": {
+      "topics": [
+        "computer and communications security",
+        "privacy",
+        "cryptography",
+        "systems security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "12 pages, excluding bibliography, marked appendices, and supplementary material",
+      "location": "The Hague, Netherlands",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACM Digital Library",
+        "url": "https://dl.acm.org/"
+      },
+      "acceptanceRate": "14.5% (2025)",
+      "submissions": "2,186 (2025)",
+      "acceptedPapers": "316 (2025)",
+      "statsSource": {
+        "label": "CS Conf Stats · CCS 2025",
+        "url": "https://csconfstats.xoveexu.com/conferences/ccs/2025/"
+      },
+      "cfpSource": {
+        "label": "ACM CCS 2026 CFP",
+        "url": "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
+      }
+    }
   },
   {
     "name": "CCS",
@@ -178,7 +286,34 @@
         "cameraReady": "2026-09-13"
       }
     ],
-    "note": "Official CCS 2026 CFP lists two review cycles. This record tracks Cycle B; online artifact deadline was May 2, 2026."
+    "note": "Official CCS 2026 CFP lists two review cycles. This record tracks Cycle B; online artifact deadline was May 2, 2026.",
+    "cfp": {
+      "topics": [
+        "computer and communications security",
+        "privacy",
+        "cryptography",
+        "systems security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "12 pages, excluding bibliography, marked appendices, and supplementary material",
+      "location": "The Hague, Netherlands",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACM Digital Library",
+        "url": "https://dl.acm.org/"
+      },
+      "acceptanceRate": "14.5% (2025)",
+      "submissions": "2,186 (2025)",
+      "acceptedPapers": "316 (2025)",
+      "statsSource": {
+        "label": "CS Conf Stats · CCS 2025",
+        "url": "https://csconfstats.xoveexu.com/conferences/ccs/2025/"
+      },
+      "cfpSource": {
+        "label": "ACM CCS 2026 CFP",
+        "url": "https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html"
+      }
+    }
   },
   {
     "id": "4",
@@ -212,7 +347,34 @@
     "year": 2027,
     "timezone": "AoE (UTC−12)",
     "cycle": "Summer submission cycle",
-    "note": "Official NDSS 2027 CFP lists summer and fall submission cycles. This record tracks the summer cycle. Symposium dates: March 22-26, 2027 in Seoul, Republic of Korea."
+    "note": "Official NDSS 2027 CFP lists summer and fall submission cycles. This record tracks the summer cycle. Symposium dates: March 22-26, 2027 in Seoul, Republic of Korea.",
+    "cfp": {
+      "topics": [
+        "network security",
+        "distributed systems security",
+        "privacy",
+        "web security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "13 pages, excluding ethics, references, and appendices",
+      "location": "Seoul, Republic of Korea",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/"
+      },
+      "acceptanceRate": "17.9% (2026)",
+      "submissions": "1,481 (2026)",
+      "acceptedPapers": "265 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · NDSS",
+        "url": "https://csconfstats.xoveexu.com/conferences/ndss/"
+      },
+      "cfpSource": {
+        "label": "NDSS 2027 CFP",
+        "url": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/"
+      }
+    }
   },
   {
     "name": "NDSS",
@@ -246,7 +408,34 @@
         "cameraReady": "2027-01-06"
       }
     ],
-    "note": "Official NDSS 2027 CFP lists summer and fall submission cycles. This record tracks the fall cycle. Symposium dates: March 22-26, 2027 in Seoul, Republic of Korea."
+    "note": "Official NDSS 2027 CFP lists summer and fall submission cycles. This record tracks the fall cycle. Symposium dates: March 22-26, 2027 in Seoul, Republic of Korea.",
+    "cfp": {
+      "topics": [
+        "network security",
+        "distributed systems security",
+        "privacy",
+        "web security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "13 pages, excluding ethics, references, and appendices",
+      "location": "Seoul, Republic of Korea",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/"
+      },
+      "acceptanceRate": "17.9% (2026)",
+      "submissions": "1,481 (2026)",
+      "acceptedPapers": "265 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · NDSS",
+        "url": "https://csconfstats.xoveexu.com/conferences/ndss/"
+      },
+      "cfpSource": {
+        "label": "NDSS 2027 CFP",
+        "url": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/"
+      }
+    }
   },
   {
     "id": "5",
@@ -280,7 +469,34 @@
     "year": 2027,
     "timezone": "AoE (UTC−12)",
     "cycle": "PoPETs 2027 Issue 1",
-    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 1. Revision deadline: September 1, 2026."
+    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 1. Revision deadline: September 1, 2026.",
+    "cfp": {
+      "topics": [
+        "privacy enhancing technologies",
+        "privacy attacks",
+        "anonymous communications",
+        "privacy-preserving systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "PETS/PoPETs 2027 event location not recorded in current CFP record",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://petsymposium.org/cfp27.php"
+      },
+      "acceptanceRate": "22.4% (2026)",
+      "submissions": "714 (2026)",
+      "acceptedPapers": "160 (2026)",
+      "statsSource": {
+        "label": "PETS acceptance rates",
+        "url": "https://petsymposium.org/acceptance-rates.php"
+      },
+      "cfpSource": {
+        "label": "PETS 2027 CFP",
+        "url": "https://petsymposium.org/cfp27.php"
+      }
+    }
   },
   {
     "name": "PETS",
@@ -314,7 +530,34 @@
         "cameraReady": "2026-12-15"
       }
     ],
-    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 2. Revision deadline: December 1, 2026."
+    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 2. Revision deadline: December 1, 2026.",
+    "cfp": {
+      "topics": [
+        "privacy enhancing technologies",
+        "privacy attacks",
+        "anonymous communications",
+        "privacy-preserving systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "PETS/PoPETs 2027 event location not recorded in current CFP record",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://petsymposium.org/cfp27.php"
+      },
+      "acceptanceRate": "22.4% (2026)",
+      "submissions": "714 (2026)",
+      "acceptedPapers": "160 (2026)",
+      "statsSource": {
+        "label": "PETS acceptance rates",
+        "url": "https://petsymposium.org/acceptance-rates.php"
+      },
+      "cfpSource": {
+        "label": "PETS 2027 CFP",
+        "url": "https://petsymposium.org/cfp27.php"
+      }
+    }
   },
   {
     "name": "PETS",
@@ -348,7 +591,34 @@
         "cameraReady": "2027-03-15"
       }
     ],
-    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 3. Revision deadline: March 1, 2027."
+    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 3. Revision deadline: March 1, 2027.",
+    "cfp": {
+      "topics": [
+        "privacy enhancing technologies",
+        "privacy attacks",
+        "anonymous communications",
+        "privacy-preserving systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "PETS/PoPETs 2027 event location not recorded in current CFP record",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://petsymposium.org/cfp27.php"
+      },
+      "acceptanceRate": "22.4% (2026)",
+      "submissions": "714 (2026)",
+      "acceptedPapers": "160 (2026)",
+      "statsSource": {
+        "label": "PETS acceptance rates",
+        "url": "https://petsymposium.org/acceptance-rates.php"
+      },
+      "cfpSource": {
+        "label": "PETS 2027 CFP",
+        "url": "https://petsymposium.org/cfp27.php"
+      }
+    }
   },
   {
     "name": "PETS",
@@ -382,7 +652,34 @@
         "cameraReady": "2027-06-15"
       }
     ],
-    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 4. Revision deadline: June 1, 2027."
+    "note": "Official PETS 2027 CFP lists four PoPETs issue cycles. This record tracks Issue 4. Revision deadline: June 1, 2027.",
+    "cfp": {
+      "topics": [
+        "privacy enhancing technologies",
+        "privacy attacks",
+        "anonymous communications",
+        "privacy-preserving systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "PETS/PoPETs 2027 event location not recorded in current CFP record",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://petsymposium.org/cfp27.php"
+      },
+      "acceptanceRate": "22.4% (2026)",
+      "submissions": "714 (2026)",
+      "acceptedPapers": "160 (2026)",
+      "statsSource": {
+        "label": "PETS acceptance rates",
+        "url": "https://petsymposium.org/acceptance-rates.php"
+      },
+      "cfpSource": {
+        "label": "PETS 2027 CFP",
+        "url": "https://petsymposium.org/cfp27.php"
+      }
+    }
   },
   {
     "id": "6",
@@ -416,7 +713,31 @@
     "year": 2026,
     "timezone": "AoE (UTC−12)",
     "cycle": "Main conference",
-    "note": "RAID 2026 is the 29th International Symposium on Research in Attacks, Intrusions and Defenses, held October 11-14, 2026 in Lancaster, UK."
+    "note": "RAID 2026 is the 29th International Symposium on Research in Attacks, Intrusions and Defenses, held October 11-14, 2026 in Lancaster, UK.",
+    "cfp": {
+      "topics": [
+        "attacks",
+        "intrusions",
+        "defenses",
+        "security measurement"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "20 pages, excluding references; unlimited appendices at submission",
+      "location": "Lancaster, UK",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://raid2026.org/call.html"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "RAID 2026 CFP",
+        "url": "https://raid2026.org/call.html"
+      }
+    }
   },
   {
     "id": "7",
@@ -462,7 +783,28 @@
       "matchedTitle": "IEEE European Symposium on Security and Privacy"
     },
     "timezone": "AoE (UTC−12)",
-    "cycle": "2027 event page / discovery deadline"
+    "cycle": "2027 event page / discovery deadline",
+    "cfp": {
+      "topics": [
+        "security and privacy",
+        "systems security",
+        "privacy",
+        "security research"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Madrid, Spain",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "name": "CSF",
@@ -496,7 +838,31 @@
         "cameraReady": null
       }
     ],
-    "note": "Official CSF 2027 page lists summer, fall and winter submission cycles. This record tracks the summer cycle."
+    "note": "Official CSF 2027 page lists summer, fall and winter submission cycles. This record tracks the summer cycle.",
+    "cfp": {
+      "topics": [
+        "computer security foundations",
+        "formal methods",
+        "privacy foundations",
+        "security theory"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Tokyo, Japan",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "CSF 2027 page",
+        "url": "https://www.ieee-security.org/TC/CSF2027/"
+      }
+    }
   },
   {
     "id": "8",
@@ -530,7 +896,31 @@
       "matchedTitle": "IEEE Computer Security Foundations Symposium (was CSFW)"
     },
     "timezone": "AoE (UTC−12)",
-    "cycle": "Fall submission cycle"
+    "cycle": "Fall submission cycle",
+    "cfp": {
+      "topics": [
+        "computer security foundations",
+        "formal methods",
+        "privacy foundations",
+        "security theory"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Tokyo, Japan",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "CSF 2027 page",
+        "url": "https://www.ieee-security.org/TC/CSF2027/"
+      }
+    }
   },
   {
     "name": "CSF",
@@ -564,7 +954,31 @@
         "cameraReady": null
       }
     ],
-    "note": "Official CSF 2027 page lists summer, fall and winter submission cycles. This record tracks the winter cycle."
+    "note": "Official CSF 2027 page lists summer, fall and winter submission cycles. This record tracks the winter cycle.",
+    "cfp": {
+      "topics": [
+        "computer security foundations",
+        "formal methods",
+        "privacy foundations",
+        "security theory"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Tokyo, Japan",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "CSF 2027 page",
+        "url": "https://www.ieee-security.org/TC/CSF2027/"
+      }
+    }
   },
   {
     "id": "9",
@@ -598,7 +1012,28 @@
     "year": 2026,
     "timezone": "AoE (UTC−12)",
     "cycle": "Technical papers",
-    "note": "Official hard topic theme includes Security and Privacy of Agentic Systems."
+    "note": "Official hard topic theme includes Security and Privacy of Agentic Systems.",
+    "cfp": {
+      "topics": [
+        "applied security",
+        "privacy",
+        "agentic systems security",
+        "security practice"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://www.acsac.org/2026/submissions/papers/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "10",
@@ -632,7 +1067,28 @@
     "year": 2026,
     "timezone": "AoE (UTC−12)",
     "cycle": "Winter cycle",
-    "note": "Official ESORICS 2026 CFP lists two review cycles. This record tracks the winter cycle."
+    "note": "Official ESORICS 2026 CFP lists two review cycles. This record tracks the winter cycle.",
+    "cfp": {
+      "topics": [
+        "computer security",
+        "privacy",
+        "cryptography",
+        "systems security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "name": "ESORICS",
@@ -666,7 +1122,28 @@
         "cameraReady": "2026-06-26"
       }
     ],
-    "note": "Official ESORICS 2026 CFP lists two review cycles. This record tracks the spring cycle."
+    "note": "Official ESORICS 2026 CFP lists two review cycles. This record tracks the spring cycle.",
+    "cfp": {
+      "topics": [
+        "computer security",
+        "privacy",
+        "cryptography",
+        "systems security"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "11",
@@ -700,7 +1177,28 @@
       "matchedTitle": "Asia Conference on Information, Computer and Communications Security"
     },
     "timezone": "AoE (UTC−12)",
-    "cycle": "Cycle 1"
+    "cycle": "Cycle 1",
+    "cfp": {
+      "topics": [
+        "computer and communications security",
+        "privacy",
+        "systems security",
+        "security applications"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Macau",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACM Digital Library",
+        "url": "https://dl.acm.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "name": "AsiaCCS",
@@ -734,7 +1232,28 @@
         "cameraReady": "2027-05-07"
       }
     ],
-    "note": "Official ASIACCS 2027 page lists two submission cycles. This record tracks Cycle 2. First-round major revision deadline: February 10, 2027; shepherded approval: April 21, 2027."
+    "note": "Official ASIACCS 2027 page lists two submission cycles. This record tracks Cycle 2. First-round major revision deadline: February 10, 2027; shepherded approval: April 21, 2027.",
+    "cfp": {
+      "topics": [
+        "computer and communications security",
+        "privacy",
+        "systems security",
+        "security applications"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACM Digital Library",
+        "url": "https://dl.acm.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "12",
@@ -768,7 +1287,31 @@
     "year": 2027,
     "timezone": "AoE (UTC−12)",
     "cycle": "Main conference",
-    "note": "Official page lists Reykjavik, Iceland in early May 2027. Camera-ready deadline is mid-February 2027, exact date TBC."
+    "note": "Official page lists Reykjavik, Iceland in early May 2027. Camera-ready deadline is mid-February 2027, exact date TBC.",
+    "cfp": {
+      "topics": [
+        "secure and trustworthy machine learning",
+        "adversarial ML",
+        "privacy in ML",
+        "AI safety"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "Research/SoK: up to 12 pages of body text; position papers: 5 to 12 pages",
+      "location": "Reykjavik, Iceland",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "IEEE SaTML 2027 CFP",
+        "url": "https://satml.org/call-for-papers/"
+      }
+    }
   },
   {
     "id": "13",
@@ -802,6 +1345,33 @@
       "url": "https://portal.core.edu.au/conf-ranks/98/",
       "checked": "2026-09-14",
       "matchedTitle": "Advances in Neural Information Processing Systems (was NIPS)"
+    },
+    "cfp": {
+      "topics": [
+        "machine learning",
+        "deep learning",
+        "AI safety",
+        "privacy and security in ML"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": "24.52% (2025 main track)",
+      "submissions": "21,575 valid submissions (2025)",
+      "acceptedPapers": "5,290 (2025)",
+      "statsSource": {
+        "label": "NeurIPS 2025 blog",
+        "url": "https://blog.neurips.cc/2025/09/30/"
+      },
+      "cfpSource": {
+        "label": "NeurIPS 2026 CFP",
+        "url": "https://neurips.cc/Conferences/2026/CallForPapers"
+      }
     }
   },
   {
@@ -835,7 +1405,31 @@
     },
     "year": 2027,
     "cycle": "Future meeting",
-    "note": "Official ICML future-meetings page lists ICML 2027 in South America and ICML 2028 in the Eastern United States. No official ICML 2027 submission deadline is published in the checked page."
+    "note": "Official ICML future-meetings page lists ICML 2027 in South America and ICML 2028 in the Eastern United States. No official ICML 2027 submission deadline is published in the checked page.",
+    "cfp": {
+      "topics": [
+        "machine learning",
+        "learning theory",
+        "deep learning",
+        "trustworthy ML"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "South America and ICML 2028 in the Eastern United States",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "PMLR / JMLR",
+        "url": "https://proceedings.mlr.press/"
+      },
+      "acceptanceRate": "26.6% (2026)",
+      "submissions": "23,918 (2026)",
+      "acceptedPapers": "6,352 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · ICML",
+        "url": "https://csconfstats.xoveexu.com/conferences/icml/"
+      },
+      "cfpSource": null
+    }
   },
   {
     "id": "15",
@@ -869,6 +1463,33 @@
       "url": "https://portal.core.edu.au/conf-ranks/2273/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Learning Representations"
+    },
+    "cfp": {
+      "topics": [
+        "representation learning",
+        "deep learning",
+        "large language models",
+        "AI safety"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": "27.4% (2026)",
+      "submissions": "19,525 valid submissions (2026)",
+      "acceptedPapers": "5,355 (2026)",
+      "statsSource": {
+        "label": "ICLR 2026 blog / CS Conf Stats",
+        "url": "https://csconfstats.xoveexu.com/conferences/iclr/"
+      },
+      "cfpSource": {
+        "label": "ICLR 2027 CFP",
+        "url": "https://iclr.cc/Conferences/2027/CallForPapers"
+      }
     }
   },
   {
@@ -903,6 +1524,33 @@
       "url": "https://portal.core.edu.au/conf-ranks/913/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Artificial Intelligence and Statistics"
+    },
+    "cfp": {
+      "topics": [
+        "artificial intelligence",
+        "statistics",
+        "learning theory",
+        "probabilistic methods"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Montreal, Canada",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": "28.1% (2026)",
+      "submissions": "2,102 (2026)",
+      "acceptedPapers": "590 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · AISTATS",
+        "url": "https://csconfstats.xoveexu.com/conferences/aistats/"
+      },
+      "cfpSource": {
+        "label": "AISTATS 2027 CFP",
+        "url": "https://virtual.aistats.org/Conferences/2027/CallForPapers"
+      }
     }
   },
   {
@@ -937,7 +1585,34 @@
     "year": 2027,
     "timezone": "AoE (UTC−12)",
     "cycle": "Main technical track",
-    "note": "AAAI-27 is held February 16-23, 2027 in Montréal, Canada."
+    "note": "AAAI-27 is held February 16-23, 2027 in Montréal, Canada.",
+    "cfp": {
+      "topics": [
+        "artificial intelligence",
+        "machine learning",
+        "NLP",
+        "AI applications"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": "7 pages of content plus up to 2 reference-only pages; 9 pages total",
+      "location": "Montreal, Canada",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://aaai.org/conference/aaai/aaai-27/"
+      },
+      "acceptanceRate": "17.6% (2026)",
+      "submissions": "23,680 (2026)",
+      "acceptedPapers": "4,167 (2026)",
+      "statsSource": {
+        "label": "CS Conf Stats · AAAI",
+        "url": "https://csconfstats.xoveexu.com/conferences/aaai/"
+      },
+      "cfpSource": {
+        "label": "AAAI-27 main technical track",
+        "url": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/"
+      }
+    }
   },
   {
     "id": "18",
@@ -970,7 +1645,28 @@
     },
     "year": 2027,
     "cycle": "Future conference",
-    "note": "Official IJCAI future-conferences page lists IJCAI-27 in Kyoto, Japan from August 7-13, 2027, and Hengqin, China from August 15-17, 2027. No official submission deadline is published in the checked page."
+    "note": "Official IJCAI future-conferences page lists IJCAI-27 in Kyoto, Japan from August 7-13, 2027, and Hengqin, China from August 15-17, 2027. No official submission deadline is published in the checked page.",
+    "cfp": {
+      "topics": [
+        "artificial intelligence",
+        "machine learning",
+        "AI systems",
+        "multi-agent systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://www.ijcai.org/future_conferences"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "19",
@@ -1015,6 +1711,30 @@
       "cycleEnd": null,
       "source": "https://aclrollingreview.org/dates",
       "note": "ARR lists ACL 2027 final ARR submission as January 2027, but the exact cycle schedule is not yet published."
+    },
+    "cfp": {
+      "topics": [
+        "NLP",
+        "computational linguistics",
+        "large language models",
+        "language evaluation"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "Long: 8 content pages; Short: 4 content pages; references unlimited",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "ACL Rolling Review CFP",
+        "url": "https://aclrollingreview.org/cfp"
+      }
     }
   },
   {
@@ -1061,6 +1781,30 @@
       "metaReviewsRelease": "2026-07-30",
       "cycleEnd": "2026-08-02",
       "source": "https://aclrollingreview.org/dates"
+    },
+    "cfp": {
+      "topics": [
+        "NLP",
+        "empirical methods",
+        "large language models",
+        "language evaluation"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "ARR long: 8 content pages; ARR short: 4 content pages; references unlimited",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "ACL Rolling Review CFP",
+        "url": "https://aclrollingreview.org/cfp"
+      }
     }
   },
   {
@@ -1107,6 +1851,30 @@
       "metaReviewsRelease": "2026-07-30",
       "cycleEnd": "2026-08-02",
       "source": "https://aclrollingreview.org/dates"
+    },
+    "cfp": {
+      "topics": [
+        "NLP",
+        "Asian language processing",
+        "computational linguistics",
+        "large language models"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "ARR long: 8 content pages; ARR short: 4 content pages; references unlimited",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "ACL Rolling Review CFP",
+        "url": "https://aclrollingreview.org/cfp"
+      }
     }
   },
   {
@@ -1153,6 +1921,30 @@
       "metaReviewsRelease": "2026-10-08",
       "cycleEnd": "2026-10-11",
       "source": "https://aclrollingreview.org/dates"
+    },
+    "cfp": {
+      "topics": [
+        "NLP",
+        "computational linguistics",
+        "large language models",
+        "language technologies"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "ARR long: 8 content pages; ARR short: 4 content pages; references unlimited",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "ACL Rolling Review CFP",
+        "url": "https://aclrollingreview.org/cfp"
+      }
     }
   },
   {
@@ -1199,6 +1991,30 @@
       "metaReviewsRelease": "2026-12-17",
       "cycleEnd": "2026-12-23",
       "source": "https://aclrollingreview.org/dates"
+    },
+    "cfp": {
+      "topics": [
+        "NLP",
+        "computational linguistics",
+        "large language models",
+        "language technologies"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "ARR long: 8 content pages; ARR short: 4 content pages; references unlimited; final versions get one extra content page",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "NAACL 2027 main-conference call",
+        "url": "https://2027.naacl.org/calls/main_conference_papers/"
+      }
     }
   },
   {
@@ -1245,6 +2061,30 @@
       "metaReviewsRelease": "2026-12-17",
       "cycleEnd": "2026-12-23",
       "source": "https://aclrollingreview.org/dates"
+    },
+    "cfp": {
+      "topics": [
+        "computational linguistics",
+        "NLP",
+        "large language models",
+        "language resources"
+      ],
+      "submissionFormat": "ARR-reviewed conference route with venue commitment",
+      "pageLimit": "ARR long: 8 content pages; ARR short: 4 content pages; references unlimited",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "ACL Rolling Review CFP",
+        "url": "https://aclrollingreview.org/cfp"
+      }
     }
   },
   {
@@ -1279,6 +2119,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2234/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Information Systems Security and Privacy"
+    },
+    "cfp": {
+      "topics": [
+        "information systems security",
+        "privacy",
+        "trust",
+        "security engineering"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1313,6 +2174,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2234/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Information Systems Security and Privacy"
+    },
+    "cfp": {
+      "topics": [
+        "information systems security",
+        "privacy",
+        "trust",
+        "security engineering"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1347,6 +2229,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/902/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Agents and Artificial Intelligence"
+    },
+    "cfp": {
+      "topics": [
+        "agents",
+        "artificial intelligence",
+        "machine learning",
+        "NLP and LLMs"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1381,6 +2284,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/902/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Agents and Artificial Intelligence"
+    },
+    "cfp": {
+      "topics": [
+        "agents",
+        "artificial intelligence",
+        "machine learning",
+        "NLP and LLMs"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1415,6 +2339,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2301/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Internet of Things, Big Data and Security"
+    },
+    "cfp": {
+      "topics": [
+        "Internet of Things",
+        "big data",
+        "systems security",
+        "data analytics"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1449,6 +2394,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2301/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Internet of Things, Big Data and Security"
+    },
+    "cfp": {
+      "topics": [
+        "Internet of Things",
+        "big data",
+        "systems security",
+        "data analytics"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1483,6 +2449,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2300/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Cloud Computing and Services Science"
+    },
+    "cfp": {
+      "topics": [
+        "cloud computing",
+        "services science",
+        "secure deployment",
+        "distributed systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1517,6 +2504,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2300/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Cloud Computing and Services Science"
+    },
+    "cfp": {
+      "topics": [
+        "cloud computing",
+        "services science",
+        "secure deployment",
+        "distributed systems"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1551,6 +2559,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2230/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Pattern Recognition Applications and Methods"
+    },
+    "cfp": {
+      "topics": [
+        "pattern recognition",
+        "machine learning",
+        "applications",
+        "methods"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1585,6 +2614,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/2230/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Pattern Recognition Applications and Methods"
+    },
+    "cfp": {
+      "topics": [
+        "pattern recognition",
+        "machine learning",
+        "applications",
+        "methods"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Valletta, Malta",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1619,6 +2669,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/1076/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Information Security and Cryptography"
+    },
+    "cfp": {
+      "topics": [
+        "information security",
+        "cryptography",
+        "privacy",
+        "security engineering"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Bilbao, Spain",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1653,6 +2724,27 @@
       "url": "https://portal.core.edu.au/conf-ranks/1076/",
       "checked": "2026-09-14",
       "matchedTitle": "International Conference on Information Security and Cryptography"
+    },
+    "cfp": {
+      "topics": [
+        "information security",
+        "cryptography",
+        "privacy",
+        "security engineering"
+      ],
+      "submissionFormat": "Conference paper submission through the official CFP/submission page",
+      "pageLimit": null,
+      "location": "Bilbao, Spain",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "SciTePress Digital Library",
+        "url": "https://www.scitepress.org/DigitalLibrary/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -1688,7 +2780,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "individual",
-    "dateStatus": "confirmed"
+    "dateStatus": "confirmed",
+    "cfp": {
+      "topics": [
+        "language model security",
+        "attacks and defenses",
+        "privacy",
+        "memorization"
+      ],
+      "submissionFormat": "Workshop paper; non-archival according to the stored CFP note",
+      "pageLimit": "up to 8 pages excluding references",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "opaque-models-privacy-neurips-2026-workshop",
@@ -1723,7 +2836,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "individual",
-    "dateStatus": "time-unclear"
+    "dateStatus": "time-unclear",
+    "cfp": {
+      "topics": [
+        "foundation model privacy",
+        "opaque models",
+        "privacy attacks",
+        "defenses"
+      ],
+      "submissionFormat": "Workshop paper; non-archival according to the stored CFP note",
+      "pageLimit": "up to 4 pages excluding references and appendices",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "infpriv-neurips-2026-workshop",
@@ -1758,7 +2892,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "individual",
-    "dateStatus": "confirmed"
+    "dateStatus": "confirmed",
+    "cfp": {
+      "topics": [
+        "AI privacy",
+        "private training",
+        "inference privacy",
+        "privacy attacks"
+      ],
+      "submissionFormat": "Workshop paper",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "aaai-2027-workshops",
@@ -1793,7 +2948,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "AI workshops",
+        "machine learning",
+        "AI safety",
+        "emerging topics"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://aaai.org/conference/aaai/aaai-27/workshops-call/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "eacl-2027-workshops",
@@ -1829,7 +3005,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "NLP workshops",
+        "large language models",
+        "security/privacy workshop route",
+        "language technologies"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "coling-2027-workshops",
@@ -1864,7 +3061,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "NLP workshops",
+        "computational linguistics",
+        "security/privacy workshop route",
+        "language technologies"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "iclr-2027-workshops",
@@ -1899,7 +3117,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "machine learning workshops",
+        "representation learning",
+        "security/privacy workshop route",
+        "AI safety"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "naacl-2027-workshops",
@@ -1935,7 +3174,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "NLP workshops",
+        "large language models",
+        "security/privacy workshop route",
+        "language technologies"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "acl-2027-workshops",
@@ -1970,7 +3230,28 @@
       "checked": "2026-09-14"
     },
     "workshopKind": "program",
-    "dateStatus": "program-timeline"
+    "dateStatus": "program-timeline",
+    "cfp": {
+      "topics": [
+        "NLP workshops",
+        "large language models",
+        "security/privacy workshop route",
+        "language technologies"
+      ],
+      "submissionFormat": "Workshop-program route; check the selected workshop CFP",
+      "pageLimit": null,
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
+    }
   },
   {
     "id": "tifs-journal",
@@ -1992,6 +3273,30 @@
       "checked": "2026-09-14",
       "verification": "indexed-snapshot",
       "note": "Historical 2024 metric from an indexed SCImago table (Scopus data as of March 2025). Direct access returned HTTP 403; the latest edition could not be verified. This does not establish a current quartile."
+    },
+    "cfp": {
+      "topics": [
+        "information forensics",
+        "security",
+        "privacy",
+        "signal processing"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security"
+      }
     }
   },
   {
@@ -2014,6 +3319,30 @@
       "checked": "2026-09-14",
       "verification": "indexed-snapshot",
       "note": "Historical 2024 metric from an indexed SCImago table (Scopus data as of March 2025). Direct access returned HTTP 403; the latest edition could not be verified. This does not establish a current quartile."
+    },
+    "cfp": {
+      "topics": [
+        "machine learning",
+        "learning theory",
+        "algorithms",
+        "applications"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "PMLR / JMLR",
+        "url": "https://proceedings.mlr.press/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://www.jmlr.org/"
+      }
     }
   },
   {
@@ -2038,7 +3367,31 @@
       "url": "https://www.scimagojr.com/journalsearch.php?q=Transactions+of+the+Association+for+Computational+Linguistics",
       "note": "Quartile supplied by the catalogue owner. Metric year, score and subject category have not been independently verified."
     },
-    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website."
+    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website.",
+    "cfp": {
+      "topics": [
+        "NLP",
+        "computational linguistics",
+        "large language models",
+        "language technologies"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://transacl.org/"
+      }
+    }
   },
   {
     "id": "cl-journal",
@@ -2062,7 +3415,31 @@
       "url": "https://www.scimagojr.com/journalrank.php?country=Northern+America&openaccess=true&ord=desc&order=cpd&page=1&total_size=724&wos=true",
       "note": "Historical 2024 metric from an indexed official SCImago table. Latest edition not verified; direct SCImago access is unavailable."
     },
-    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website."
+    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website.",
+    "cfp": {
+      "topics": [
+        "computational linguistics",
+        "NLP",
+        "linguistic modeling",
+        "language technologies"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACL Anthology / venue website",
+        "url": "https://aclanthology.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://direct.mit.edu/coli"
+      }
+    }
   },
   {
     "id": "acm-tops-journal",
@@ -2086,7 +3463,31 @@
       "url": "https://www.scimagojr.com/journalsearch.php?q=21100832567&tip=sid",
       "note": "Q1, SJR 0.783 and metric year 2025 were supplied by the catalogue owner. Retained as unverified, not as an independently confirmed SCImago record."
     },
-    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website."
+    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website.",
+    "cfp": {
+      "topics": [
+        "privacy",
+        "security",
+        "systems security",
+        "privacy-preserving systems"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "ACM Digital Library",
+        "url": "https://dl.acm.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://dl.acm.org/journal/tops"
+      }
+    }
   },
   {
     "id": "jbd-journal",
@@ -2110,7 +3511,31 @@
       "url": "https://www.scimagojr.com/journalrank.php?country=Western+Europe&page=40&total_size=13234",
       "note": "Historical 2024 metric from an indexed official SCImago table. Latest edition not verified; direct SCImago access is unavailable."
     },
-    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website."
+    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website.",
+    "cfp": {
+      "topics": [
+        "big data",
+        "data science",
+        "machine learning",
+        "analytics"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Journal website",
+        "url": "https://journalofbigdata.springeropen.com/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://journalofbigdata.springeropen.com/"
+      }
+    }
   },
   {
     "id": "tmlr-journal",
@@ -2135,7 +3560,31 @@
       "note": "Q2 agrees with the supplied quartile. SJR 0.744, metric year 2025 and categories are reported by JournalsBase; direct verification against SCImago is pending.",
       "officialUrl": "https://www.scimagojr.com/journalsearch.php?q=21101278441&tip=sid"
     },
-    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website."
+    "note": "Journal submission policies differ from conference cycles. No issue-specific deadlines have been recorded. Consult the journal website.",
+    "cfp": {
+      "topics": [
+        "machine learning",
+        "deep learning",
+        "trustworthy ML",
+        "reproducibility"
+      ],
+      "submissionFormat": "Rolling journal submission",
+      "pageLimit": "See journal author guidelines",
+      "location": null,
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "OpenReview / venue proceedings",
+        "url": "https://openreview.net/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": {
+        "label": "Journal author/submission page",
+        "url": "https://jmlr.org/tmlr/"
+      }
+    }
   },
   {
     "id": "icaic-2027",
@@ -2176,6 +3625,27 @@
       "checked": "2026-09-14",
       "url": "https://portal.core.edu.au/conf-ranks/?search=ICAIC&by=all&source=ICORE2026",
       "note": "No matching entry found by acronym or title search. IEEE publication does not establish a CORE grade."
+    },
+    "cfp": {
+      "topics": [
+        "AI in cybersecurity",
+        "security analytics",
+        "machine learning",
+        "cybersecurity"
+      ],
+      "submissionFormat": "IEEE conference-template paper",
+      "pageLimit": null,
+      "location": "Houston, USA",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "IEEE Xplore / IEEE Computer Society",
+        "url": "https://ieeexplore.ieee.org/"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   },
   {
@@ -2211,6 +3681,27 @@
       "checked": "2026-09-14",
       "url": "https://portal.core.edu.au/conf-ranks/?search=AAIML&by=all&source=ICORE2026",
       "note": "No matching entry found by acronym or title search. IEEE publication does not establish a CORE grade."
+    },
+    "cfp": {
+      "topics": [
+        "artificial intelligence",
+        "machine learning",
+        "applications",
+        "methods"
+      ],
+      "submissionFormat": "IEEE conference-template paper; abstract-only presentation is a separate track",
+      "pageLimit": "Full papers: 6 pages including references, up to 10 with extra-page charges",
+      "location": "Tokyo, Japan",
+      "proceedingsUrl": null,
+      "proceedingsSource": {
+        "label": "Venue website",
+        "url": "https://aaiml.net/sub.html"
+      },
+      "acceptanceRate": null,
+      "submissions": null,
+      "acceptedPapers": null,
+      "statsSource": null,
+      "cfpSource": null
     }
   }
 ]
