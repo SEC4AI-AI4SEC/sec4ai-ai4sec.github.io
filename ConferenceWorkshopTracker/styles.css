@@ -11,3 +11,7 @@
 .record-group{margin:0 0 30px}.record-group>h2{margin:22px 0 12px;font-size:16px;letter-spacing:0;color:#52636d}
 .cfp-details{margin:14px 0;padding:12px 14px;border:1px solid #dce3e7;border-radius:8px;background:#fbfcfc}.cfp-details h3{margin:0 0 10px;font-size:15px;color:#263b2e}.topic-list{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}.topic-list span{border:1px solid #dce3e7;border-radius:5px;padding:4px 7px;background:#fff;color:#43535c;font-size:12px}.cfp-details dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 18px;margin:0}.cfp-details dt{font-size:12px;color:#617079}.cfp-details dd{margin:2px 0 0;color:#1d2d35;font-weight:600;line-height:1.45}.cfp-details a{color:#2f5750}
 .arr-schedule{margin:14px 0;padding:12px 14px;border:1px solid #dce3e7;border-radius:8px;background:#f8fafb}.arr-schedule h3{margin:0 0 10px;font-size:15px;color:#263b2e}.arr-schedule dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 18px;margin:0}.arr-schedule dt{font-size:12px;color:#617079}.arr-schedule dd{margin:2px 0 0;color:#1d2d35;font-weight:600}.arr-schedule p{margin:8px 0 0}@media(max-width:500px){.cfp-details dl,.arr-schedule dl{grid-template-columns:1fr}}
+
+.deadline-identity{display:flex;flex-direction:column;align-items:center;gap:12px;flex-shrink:0}
+.deadline-logo{display:block;width:180px;max-width:100%;height:auto}
+@media(max-width:600px){.heading{flex-wrap:wrap;gap:20px}.deadline-logo{width:140px}.deadline-identity{align-items:flex-start}}

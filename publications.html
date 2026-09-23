@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Selected publications by Dr. Pritha Gupta.">
-    <title>Publications | Pritha Gupta | GuptaSec4AI · AI4Sec</title>
+    <meta name="description" content="Research on LLM attacks, privacy-preserving defenses, and automated vulnerability detection, with selected publications by Dr. Pritha Gupta.">
+    <title>Research Focus | Pritha Gupta | GuptaSec4AI · AI4Sec</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="layout">
         <aside class="sidebar">
-            <a class="site-identity" href="index.html">GuptaSec4AI · AI4Sec</a>
-            <p class="site-tagline">Security for AI · AI for Security</p>
             <div class="sidebar-profile" aria-label="Profile">
                 <img class="profile-photo" src="images/profile.jpg" alt="Pritha Gupta">
                 <span class="profile-name">Pritha Gupta</span>
@@ -20,26 +18,47 @@
             <nav class="nav-links" aria-label="Primary navigation">
                 <a href="index.html"><img class="nav-icon" src="images/nav_about.png" alt="" aria-hidden="true">About</a>
                 <a href="teaching.html"><img class="nav-icon" src="images/nav_teaching.png" alt="" aria-hidden="true">Teaching</a>
-                <a href="publications.html" aria-current="page"><img class="nav-icon" src="images/nav_publications.png" alt="" aria-hidden="true">Publications</a>
+                <a href="publications.html" aria-current="page"><img class="nav-icon" src="images/nav_publications.png" alt="" aria-hidden="true">Research Focus</a>
                 <a href="invited-talks.html"><img class="nav-icon" src="images/nav_invited_talks.png" alt="" aria-hidden="true">Invited Talks</a>
-                <a href="cv.html"><img class="nav-icon" src="images/nav_cv.png" alt="" aria-hidden="true">CV</a>
+                <a href="cv.html"><img class="nav-icon" src="images/nav_cv.png" alt="" aria-hidden="true">Curriculum Vitae</a>
                 <a href="research-deadlines.html"><img class="nav-icon" src="images/nav_deadline_tracker.png" alt="" aria-hidden="true">Deadlines</a>
             </nav>
             <div class="profile-links" aria-label="Profile links">
                 <a href="mailto:prithagupta.nsit@icloud.com"><img class="link-icon" src="images/email.png" alt="" aria-hidden="true">Email</a>
                 <a href="https://www.linkedin.com/in/pritha-g-32383714/" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="images/linkedin.png" alt="" aria-hidden="true">LinkedIn</a>
-                <a href="https://github.com/prithagupta" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="images/github.png" alt="" aria-hidden="true">GitHub</a>
+                <a href="https://github.com/SEC4AI-AI4SEC/" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="images/github.png" alt="" aria-hidden="true">GitHub</a>
                 <a href="https://scholar.google.com/citations?user=HLh9zgMAAAAJ" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="images/google_scholar.png" alt="" aria-hidden="true">Google Scholar</a>
             </div>
         </aside>
 
         <main>
-            <section class="hero">
-                <h1 class="page-title">Publications</h1>
-                <p class="hero-copy">Selected publications across LLM security, leakage detection, side-channel analysis, AutoML, and preference learning.</p>
+            <section class="hero research-hero">
+                <div>
+                    <h1 class="page-title">Research Focus</h1>
+                    <p class="hero-copy">Attacks on LLMs, privacy-preserving defenses, and machine learning for security.</p>
+                </div>
+                <img class="research-page-logo" src="images/logo.png" alt="Sec4AI · AI4Sec — Security for AI · AI for Security" width="1374" height="1145">
             </section>
 
-            <section>
+            <section id="research" class="research-focus">
+                <div class="grid">
+                    <article class="card">
+                        <h3>Attacks on LLMs</h3>
+                        <p>Prompt injection, data leakage, model extraction, backdoor attacks, gradient reconstruction attacks, membership inference, and adversarial machine learning.</p>
+                    </article>
+                    <article class="card">
+                        <h3>Privacy-Preserving ML/LLM Defenses</h3>
+                        <p>Federated learning, differential privacy, privacy-preserving fine-tuning, safety alignment, canary insertion and detection, and other defenses against model attacks.</p>
+                    </article>
+                    <article class="card">
+                        <h3>Automated Vulnerability Detection</h3>
+                        <p>Meta-learning, AutoML, and neural architecture search for side-channel and cryptographic analysis.</p>
+                    </article>
+                </div>
+            </section>
+
+            <section aria-labelledby="publications-heading">
+                <div class="section-heading"><h2 id="publications-heading">Selected Publications</h2></div>
                 <ul class="pub-list">
                     <li><span class="pub-title">From ASR to ASP: Evaluating Prompt Attack Vulnerabilities Against Open-Source LLMs</span><span class="pub-venue">Jiawen Wang, Pritha Gupta, Ivan Habernal, Eyke Hüllermeier, Xiaoxue Gao, Nancy F. Chen. arXiv, 2026. <a href="https://arxiv.org/abs/2505.14368" target="_blank" rel="noopener noreferrer">Paper</a></span></li>
                     <li><span class="pub-title">Information Leakage Detection through Approximate Bayes-optimal Prediction</span><span class="pub-venue">Pritha Gupta, Marcel Wever, Eyke Hüllermeier. Information Sciences, 2025. <a href="https://doi.org/10.1016/j.ins.2025.122419" target="_blank" rel="noopener noreferrer">Paper</a></span></li>
