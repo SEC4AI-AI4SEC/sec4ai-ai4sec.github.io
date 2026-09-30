@@ -434,3 +434,6 @@ footer {
 
 .profile-group-heading { flex-basis: 100%; margin: .65rem 0 .2rem; color: var(--ink); font-size: .9rem; font-weight: 700; line-height: 1.4; }
 .contact-methods .profile-group-heading { margin-top: 0; }
+
+.cv-quote { margin: 1.25rem 0; padding: .25rem 0 .25rem 1rem; border-left: 3px solid var(--accent); color: var(--accent-strong); max-width: 42rem; }
+.cv-quote p { margin: 0; line-height: 1.65; }
